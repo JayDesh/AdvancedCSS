@@ -1,0 +1,18 @@
+{
+  "name": "coursera-advanced-css",
+  "version": "1.0.0",
+  "description": "Coursera Advanced CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "bootstrap",
+    "css"
+  ],
+  "author": "Jayesh Deshmukh",
+  "license": "MIT",
+  "dependencies":{
+   "bootstrap":"*"
+  }
+}
